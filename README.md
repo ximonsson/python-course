@@ -31,3 +31,14 @@ Host a Jupyter server yourself may feel too advanced at first, and in that case 
 
  * Copy the URL to the notebook from the github repository and insert into the search field and search. There should come up a result with the notebook that you can click on to open.
    ![open-github-notebook](img/open-github-notebook.jpg)
+
+
+## Programing tools
+
+Everyone has their taste. Some like it simple and do more things by themselves, others prefer an all-in-one solution that has a lot of builtin functionality. Here is a short list of IDEs and editors that are nice to use when working with Python (and other languages also):
+
+ * [Visual Studio Code](https://code.visualstudio.com/). Nice IDE with a lot of features. It is a Microsoft product but I think it is available on all platforms.
+ * [Sublime Text](https://www.sublimetext.com/). Editor with a lot extra features and with possibility for installing plugins to make it more like an IDE.
+ * [Atom](https://atom.io/). Pretty much the same concept as Sublime Text.
+ * [Spyder](https://www.spyder-ide.org/). An IDE that focuses on a lot on scientific projects.
+ * [Eclipse](https://www.eclipse.org/downloads/). A very versatile IDE with support for many languages and plugins.
