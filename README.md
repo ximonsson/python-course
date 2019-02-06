@@ -8,8 +8,9 @@ Here you will find all the notebooks and material for the course.
  * week 4: Control flow.
  * week 5: Input/Output, modules, files, command line.
  * week 6: Lists, dictionaries, sets.
- * week 7: ...
- * ...
+ * week 7: Classes and objects.
+ * week 8: Object oriented programming.
+ * week 9: Visualizing data.
 
 ## How to open the notebooks
 
