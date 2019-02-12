@@ -2,6 +2,10 @@
 
 Here you will find all the notebooks and material for the course.
 
+## Python version
+
+This course will be using Python 3. A recommended way of installing Python is using the [Anaconda Distribution](https://www.anaconda.com/distribution/) which comes with many packages pre-installed and is easy to setup on all platforms.
+
 ## Planning
 
  * week 3: Basic syntax, variables and functions.
